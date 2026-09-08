@@ -1,12 +1,8 @@
 -- ============================================================
--- Olist E-Commerce Customer & Sales Analytics
 -- Sales Analysis
 -- ============================================================
 
 -- Note:
--- Unless otherwise stated, sales metrics include delivered
--- orders only.
---
 -- Product Sales = SUM(order_items.price)
 -- Freight Value = SUM(order_items.freight_value)
 -- Total Order Value = Product Sales + Freight Value
