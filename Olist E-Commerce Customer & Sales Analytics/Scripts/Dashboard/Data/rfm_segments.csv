@@ -1,0 +1,7 @@
+"customer_segment","customers","customer_pct","avg_recency_days","avg_frequency","avg_monetary_value"
+Other One-Time,45422,48.65,364.0,1.0,137.73
+Recent One-Time,22846,24.47,111.0,1.0,47.02
+Recent High Value,22289,23.87,111.5,1.0,231.63
+Loyal High Value,1310,1.4,112.3,2.16,300.23
+At Risk Repeat,1258,1.35,352.0,2.08,254.87
+Repeat Customers,233,0.25,110.5,2.03,62.17
